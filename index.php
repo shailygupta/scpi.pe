@@ -18,7 +18,7 @@
 	        <source src="video.mp4" type="video/mp4">
 	    </video>
         <div class="banner-logo"><img src="assets/images/SCPI.PE.png" class="img-fluid"></div>
-	    <div class="banner-cont">
+	    <div class="banner-cont" style="color:#F5F5F5;">
 	    	<h2>We invest in your Aspirations<br> <br>We create Your Wealth </h2>
 	    </div>
 	    <!-- <img src="assets/images/slide.jpg" class="img-fluid"> -->
