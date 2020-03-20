@@ -19,7 +19,7 @@
 	    </video>
         <div class="banner-logo"><img src="assets/images/SCPI.PE.png" class="img-fluid"></div>
 	    <div class="banner-cont">
-	    	<h2 style="color:#A9A9A9;">We invest in your Aspirations<br> <br>We create Your Wealth </h2>
+	    	<h2 style="color:#787878;">We invest in your Aspirations<br> <br>We create Your Wealth </h2>
 	    </div>
 	    <!-- <img src="assets/images/slide.jpg" class="img-fluid"> -->
 	</section>
